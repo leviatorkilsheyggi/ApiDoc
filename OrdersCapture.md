@@ -52,7 +52,6 @@ These violations detail what aspects of the order are incompatible with your req
 
 For example: Violation codes **1300, 1301, 1302** are only ever taking into the validation process if the PaymentType is associated with a CreditCard and never if MobilePay.
 
-***
 ## Order Status
 
 | Code  | Status                 |
